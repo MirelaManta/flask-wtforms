@@ -45,7 +45,7 @@ Flask Login App is a simple web application built with Flask that allows users t
 
 The project structure is as follows:
 
-- `app.py`: The main Flask application file.
+- `main.py`: The main Flask application file.
 - `base.html`: The base HTML template used by other templates.
 - `index.html`: The home page template.
 - `login.html`: The login page template.
